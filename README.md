@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sean
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to make multi-player games
+- 💞️ I’m looking to collaborate on my "4 Player Battle" game
+- 📫 my email is seanoreilly6767@gmail.com
